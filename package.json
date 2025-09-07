@@ -1,0 +1,19 @@
+{
+  "name": "logarc",
+  "version": "0.0.1",
+  "description": "LogArc Package For Node Js",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "logger",
+    "logarc",
+    "logging",
+    "sdk"
+  ],
+  "author": "Dipesh Khanal",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "moment-timezone": "^0.6.0"
+  }
+}
