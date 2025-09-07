@@ -1,5 +1,5 @@
 {
-  "name": "logarc",
+  "name": "@logarc/logarc",
   "version": "0.0.1",
   "description": "LogArc Package For Node Js",
   "main": "index.js",
